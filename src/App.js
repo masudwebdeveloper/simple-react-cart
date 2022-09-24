@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Cosmatics from './components/Cosmatics/Cosmatics';
+import Products from './components/Products/Products';
+import { add } from './components/utilities/Utilities';
+const color = {
+  color: "red",
+  fontSize: "2rem",
+  fontWeight: '700',
+}
 function App() {
+  const first = 10;
+  const second = 12;
+  const total = add(first, second);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <p style={color}>Additional : {total}</p> */}
+      
+      <Products></Products>
     </div>
   );
 }

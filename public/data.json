@@ -1,0 +1,44 @@
+[
+   {
+     "_id": "632df7f4ce9372932c3ed96d",
+     "picture": "https://static-01.daraz.com.bd/p/d8d6ca95428044716135c1955fc415de.jpg",
+     "price": 23,
+     "name": "Fresh Time Disinfectant Hand Wash 1 Liter"
+   },
+   {
+     "_id": "632df7f499c23b45fc16f750",
+     "picture": "https://static-01.daraz.com.bd/p/db0f79a4f23580fd5348560f21a39519.jpg",
+     "price": 32,
+     "name": "Dettol Soap Skincare 75gm Bathing Bar, Soap with Moisturizers"
+   },
+   {
+     "_id": "632df7f45ae26d614195b0c6",
+     "picture": "https://static-01.daraz.com.bd/p/f987f1e530679e6776b908175eeedc98.jpg",
+     "price": 35,
+     "name": "Dettol Soap Original 75gm Bathing Bar, Soap with protection from 100 illness-causing germs"
+   },
+   {
+     "_id": "632df7f4787bbf30e8e3c044",
+     "picture": "https://static-01.daraz.com.bd/p/6b12c17eb4ff676be1ad0166cc227743.jpg",
+     "price": 21,
+     "name": "Skin Cafe Rosemary Essential Oil-10ml"
+   },
+   {
+     "_id": "632df7f434079ddb32f3d5f3",
+     "picture": "https://static-01.daraz.com.bd/p/855aabaa487ed338a073f1e477979c7f.jpg",
+     "price": 20,
+     "name": "FEET CARE Deep Moisturizing Foot Gel - 50gm"
+   },
+   {
+     "_id": "632df7f4cdbb2513ba356754",
+     "picture": "https://static-01.daraz.com.bd/p/d3f11380ee10f9111ab45678b90c7ce2.jpg",
+     "price": 35,
+     "name": "Meril Milk & Beli Soap - 100g"
+   },
+   {
+     "_id": "632df7f4429e82d9dbe34026",
+     "picture": "https://static-01.daraz.com.bd/p/76281ec731fd4c5b0ea95bb27bb489cc.jpg",
+     "price": 26,
+     "name": "Lux Soap Bar Velvet Glow 75g"
+   }
+ ]

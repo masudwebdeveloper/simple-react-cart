@@ -1,0 +1,29 @@
+.product-container img{
+   width: 300px;
+   
+}
+.product-container{
+
+   border: 1px solid green;
+   padding: 1rem;
+   border-radius: .5rem;
+   cursor: pointer;
+}
+.product-container:hover img{
+   transform: scale(1.05);
+   transition: 1s;
+}
+.buy-btn{
+   padding: 10px 20px;
+   background-color: skyblue;
+   border: 0;
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: 1.25rem;
+   margin-right: 10px;
+}
+.buy-btn:hover{
+   background-color: teal;
+   color: white;
+   transition: .5s;
+}
